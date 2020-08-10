@@ -1,2 +1,2 @@
 # DigitalHouse-Deploying
-Clase de deploy con Heroku
+Clase de deploy con Heroku.
